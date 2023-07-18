@@ -12,7 +12,7 @@ body{
 }
 
 
-.back{
+/* .back{
     position: absolute;
     right: 0;
     bottom: 0;
@@ -21,7 +21,7 @@ body{
     filter: brightness(80%);
     overflow: hidden;
    
-}
+} */
 
 
 h1{
